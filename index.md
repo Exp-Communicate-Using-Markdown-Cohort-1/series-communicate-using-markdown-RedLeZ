@@ -18,6 +18,12 @@ class Body(Life):
 
 ### How to mod
 
+- [X] ice coke
+- [x] popcorn
+- [X] Movie
+- [ ] hot girlfriend with a hody
+
+
 #### Contribution
 
 ##### Power of friendship
